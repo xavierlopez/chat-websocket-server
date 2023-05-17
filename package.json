@@ -1,6 +1,6 @@
 {
-  "name": "rtm",
-  "version": "0.0.1",
+  "name": "xlm",
+  "version": "1.0.0",
   "scripts": {
     "start": "node server.js"
   },
